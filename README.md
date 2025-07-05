@@ -32,6 +32,8 @@ A comprehensive **Model Context Protocol (MCP)** implementation featuring:
 
 ## 🗂️ Project Structure
 
+
+
 📁 MCP Client & Blender Suite/
 ├── 📁 mcp-client-python/ # Universal MCP Client
 │ ├── 📁 api/ # FastAPI server
