@@ -154,4 +154,7 @@ We welcome contributions! Please check out our CONTRIBUTING.md for:
 
 I have taken reference for MCP tool from here 
 
+https://modelcontextprotocol.io/quickstart/client
+https://github.com/zebbern/claude-code-guide
+https://github.com/activepieces/activepieces
 https://github.com/ahujasid/blender-mcp
