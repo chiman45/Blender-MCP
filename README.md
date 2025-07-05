@@ -32,7 +32,18 @@ A comprehensive **Model Context Protocol (MCP)** implementation featuring:
 
 ## 🗂️ Project Structure
 
-
+📁 MCP Client & Blender Suite/
+├── 📁 mcp-client-python/ # Universal MCP Client
+│ ├── 📁 api/ # FastAPI server
+│ │ ├── 📄 main.py # FastAPI entry point
+│ │ ├── 📄 mcp_client.py # Core client logic
+│ │ └── 📄 .env # API key configuration
+│ └── 📁 front/ # Optional frontend interface
+│
+└── 📁 blender-mcp/ # Blender-side MCP integration
+├── 📄 server.py # Socket server inside Blender
+├── 📄 addon.py # Blender addon for socket comms
+└── 📁 assets/ # Static/documentation assets
 
 
 
