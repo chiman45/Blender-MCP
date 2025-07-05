@@ -151,3 +151,7 @@ We welcome contributions! Please check out our CONTRIBUTING.md for:
    -🤖 Hyper3D Rodin for AI 3D model generation
 
    -🧱 Blender Foundation for the open-source 3D suite
+
+I have taken reference for MCP tool from here 
+
+https://github.com/ahujasid/blender-mcp
