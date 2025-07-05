@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "call search_polyhaven_assets mcp tool"
+  },
+  {
+    "role": "assistant",
+    "content": "Okay, I will search for Polyhaven assets using the MCP (presumably meaning Material Creation Pipeline) tool.\n"
+  }
+]

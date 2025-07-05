@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "can you call my local mcp tools "
+  },
+  {
+    "role": "assistant",
+    "content": "I am sorry, I cannot call your local MCP Tools because I do not have access to your personal information. I do not know your location, and I cannot make phone calls."
+  }
+]

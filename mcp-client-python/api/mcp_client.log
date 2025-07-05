@@ -1,0 +1,228 @@
+2025-06-23 17:00:43,429 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-23 17:00:43,441 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 17:02:41,696 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-23 17:02:41,703 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 17:02:54,543 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-23 17:02:54,550 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 17:03:04,955 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-23 17:03:04,961 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 17:03:08,390 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-23 17:03:08,398 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 17:20:35,216 - MCPClient - ERROR - Error connecting to MCP server: Connection closed
+2025-06-23 17:20:35,220 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 17:22:16,729 - MCPClient - INFO - Connected to MCP server
+2025-06-23 17:22:16,735 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-06-23 17:29:29,860 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 17:29:37,885 - MCPClient - INFO - Connected to MCP server
+2025-06-23 17:29:37,888 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-06-23 17:29:38,118 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 17:29:47,950 - MCPClient - INFO - Connected to MCP server
+2025-06-23 17:29:47,954 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-06-23 19:11:43,750 - MCPClient - INFO - Connected to MCP server
+2025-06-23 19:11:43,756 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-06-23 19:17:26,705 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 19:34:13,857 - MCPClient - INFO - Connected to MCP server
+2025-06-23 19:34:13,865 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-06-23 19:35:18,238 - MCPClient - INFO - Processing query: tell me the name of president of india
+2025-06-23 19:35:18,238 - MCPClient - INFO - Calling LLM
+2025-06-23 19:35:18,782 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 19:35:18,784 - MCPClient - ERROR - Error processing query: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 19:43:00,787 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 19:45:10,144 - MCPClient - INFO - Connected to MCP server
+2025-06-23 19:45:10,151 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-06-23 19:54:58,582 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 19:55:06,892 - MCPClient - INFO - Connected to MCP server
+2025-06-23 19:55:06,896 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-06-23 19:55:23,389 - MCPClient - INFO - Processing query: hello
+2025-06-23 19:55:23,389 - MCPClient - INFO - Calling LLM
+2025-06-23 19:55:23,879 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 19:55:23,879 - MCPClient - ERROR - Error processing query: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 20:04:05,241 - MCPClient - INFO - Connected to MCP server
+2025-06-23 20:04:05,244 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-06-23 20:11:24,146 - MCPClient - INFO - Processing query: hello
+2025-06-23 20:11:24,147 - MCPClient - INFO - Calling LLM
+2025-06-23 20:11:24,724 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 20:11:24,724 - MCPClient - ERROR - Error processing query: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 20:16:03,037 - MCPClient - INFO - Processing query: hello
+2025-06-23 20:16:03,037 - MCPClient - INFO - Calling LLM
+2025-06-23 20:16:04,307 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 20:16:04,307 - MCPClient - ERROR - Error processing query: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 20:21:30,220 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 20:21:36,410 - MCPClient - INFO - Connected to MCP server
+2025-06-23 20:21:36,413 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-06-23 20:21:40,798 - MCPClient - INFO - Processing query: hello
+2025-06-23 20:21:40,798 - MCPClient - INFO - Calling LLM
+2025-06-23 20:21:41,308 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 20:21:41,309 - MCPClient - ERROR - Error processing query: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 20:24:05,864 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 20:24:11,317 - MCPClient - INFO - Connected to MCP server
+2025-06-23 20:24:11,319 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-06-23 20:24:14,304 - MCPClient - INFO - Processing query: hello
+2025-06-23 20:24:14,305 - MCPClient - INFO - Calling LLM
+2025-06-23 20:24:14,787 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 20:24:14,787 - MCPClient - ERROR - Error processing query: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 21:23:56,612 - MCPClient - INFO - Processing query: hello
+2025-06-23 21:23:56,613 - MCPClient - INFO - Calling LLM
+2025-06-23 21:23:57,082 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-23 21:23:57,083 - MCPClient - ERROR - Error processing query: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2025-06-27 23:41:00,642 - MCPClient - INFO - Connected to MCP server
+2025-06-27 23:41:00,645 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-06-27 23:42:44,454 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-27 23:42:44,462 - MCPClient - INFO - Disconnected from MCP server
+2025-06-27 23:45:06,900 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-27 23:45:06,905 - MCPClient - INFO - Disconnected from MCP server
+2025-06-27 23:45:09,034 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-27 23:45:09,039 - MCPClient - INFO - Disconnected from MCP server
+2025-06-27 23:47:44,974 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-27 23:47:44,980 - MCPClient - INFO - Disconnected from MCP server
+2025-06-27 23:55:53,655 - MCPClient - INFO - Processing query: hello
+2025-06-27 23:55:53,655 - MCPClient - INFO - Calling LLM
+2025-06-27 23:55:55,645 - MCPClient - ERROR - Error calling LLM: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-06-27 23:55:55,646 - MCPClient - ERROR - Error processing query: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-06-27 23:56:50,679 - MCPClient - INFO - Processing query: hello
+2025-06-27 23:56:50,679 - MCPClient - INFO - Calling LLM
+2025-06-27 23:56:51,041 - MCPClient - ERROR - Error calling LLM: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-06-27 23:56:51,041 - MCPClient - ERROR - Error processing query: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-06-28 00:07:38,292 - MCPClient - INFO - Connected to MCP server
+2025-06-28 00:07:38,295 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-06-28 00:07:46,417 - MCPClient - INFO - Processing query: hello
+2025-06-28 00:07:46,417 - MCPClient - INFO - Calling LLM
+2025-06-28 00:08:18,688 - MCPClient - INFO - Processing query: can you create a sphere in blender for me
+2025-06-28 00:08:18,688 - MCPClient - INFO - Calling LLM
+2025-06-28 00:09:06,192 - MCPClient - INFO - Processing query: can you call mcp tools
+2025-06-28 00:09:06,192 - MCPClient - INFO - Calling LLM
+2025-06-28 00:09:37,029 - MCPClient - INFO - Processing query: can you use mcp tools provided to you like claude ai
+2025-06-28 00:09:37,029 - MCPClient - INFO - Calling LLM
+2025-06-28 00:10:06,173 - MCPClient - INFO - Processing query: tell me about MCP
+2025-06-28 00:10:06,174 - MCPClient - INFO - Calling LLM
+2025-06-28 00:11:48,598 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-28 00:11:48,606 - MCPClient - INFO - Disconnected from MCP server
+2025-06-28 00:11:50,473 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-28 00:11:50,477 - MCPClient - INFO - Disconnected from MCP server
+2025-06-28 00:11:51,852 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-28 00:11:51,857 - MCPClient - INFO - Disconnected from MCP server
+2025-06-28 00:11:59,308 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-28 00:11:59,313 - MCPClient - INFO - Disconnected from MCP server
+2025-06-28 00:12:15,552 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-28 00:12:15,563 - MCPClient - INFO - Disconnected from MCP server
+2025-06-28 00:12:27,653 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-28 00:12:27,658 - MCPClient - INFO - Disconnected from MCP server
+2025-06-28 00:12:32,988 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-28 00:12:32,992 - MCPClient - INFO - Disconnected from MCP server
+2025-07-01 17:17:02,864 - MCPClient - INFO - Connected to MCP server
+2025-07-01 17:17:02,870 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-07-01 17:17:12,113 - MCPClient - INFO - Processing query: tell me about MCP
+2025-07-01 17:17:12,113 - MCPClient - INFO - Calling LLM
+2025-07-01 17:23:12,019 - MCPClient - INFO - Processing query: tell me about MCP
+2025-07-01 17:23:12,019 - MCPClient - INFO - Calling LLM
+2025-07-01 17:23:22,970 - MCPClient - INFO - Disconnected from MCP server
+2025-07-01 17:23:29,260 - MCPClient - INFO - Connected to MCP server
+2025-07-01 17:23:29,264 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-07-01 17:23:30,778 - MCPClient - INFO - Processing query: tell me about MCP
+2025-07-01 17:23:30,778 - MCPClient - INFO - Calling LLM
+2025-07-01 17:23:31,321 - MCPClient - ERROR - Error calling LLM: 404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-07-01 17:23:31,322 - MCPClient - ERROR - Error processing query: 404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-07-01 17:24:44,760 - MCPClient - INFO - Disconnected from MCP server
+2025-07-01 17:24:51,130 - MCPClient - INFO - Connected to MCP server
+2025-07-01 17:24:51,134 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-07-01 17:24:52,307 - MCPClient - INFO - Processing query: tell me about MCP
+2025-07-01 17:24:52,307 - MCPClient - INFO - Calling LLM
+2025-07-01 17:24:54,120 - MCPClient - ERROR - Error calling LLM: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-07-01 17:24:54,120 - MCPClient - ERROR - Error processing query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-07-01 17:30:16,837 - MCPClient - INFO - Disconnected from MCP server
+2025-07-01 17:30:25,259 - MCPClient - INFO - Connected to MCP server
+2025-07-01 17:30:25,263 - MCPClient - INFO - Available tools: ['get_scene_info', 'get_object_info', 'get_viewport_screenshot', 'execute_blender_code', 'get_polyhaven_categories', 'search_polyhaven_assets', 'download_polyhaven_asset', 'set_texture', 'get_polyhaven_status', 'get_hyper3d_status', 'get_sketchfab_status', 'search_sketchfab_models', 'download_sketchfab_model', 'generate_hyper3d_model_via_text', 'generate_hyper3d_model_via_images', 'poll_rodin_job_status', 'import_generated_asset']
+2025-07-01 17:30:30,603 - MCPClient - INFO - Processing query: tell me about MCP
+2025-07-01 17:30:30,603 - MCPClient - INFO - Calling LLM
+2025-07-01 17:31:05,565 - MCPClient - INFO - Processing query: can you make a function call for MCP tool
+2025-07-01 17:31:05,565 - MCPClient - INFO - Calling LLM
+2025-07-01 17:32:36,214 - MCPClient - INFO - Processing query: call search_polyhaven_assets mcp tool
+2025-07-01 17:32:36,214 - MCPClient - INFO - Calling LLM
+2025-07-01 17:33:08,081 - MCPClient - INFO - Processing query: can you call my local mcp tools 
+2025-07-01 17:33:08,082 - MCPClient - INFO - Calling LLM
